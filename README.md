@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Docker, Kubernetes, Ansible, Terraform, and JavaScript. Not all at the same time but it is a direction I'd like to spend time in. Currently, I'm focusing on JS.
 - 💞️ I’m looking to collaborate on super simple projects because I'm a N00B, but I'm looking to change that!
 - 📫 How to reach me ... 👻
-- ⚡ Fun fact: If it scares you, I'm in!
+- ⚡ Fun fact: If it makes you uncomfortable, you should do it.
 - 🚧 Try harder.
 
 <!---
