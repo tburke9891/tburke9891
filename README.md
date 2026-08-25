@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Thomas! I like learning new things and doing dope stuff.
-- 👀 My background is in Cyber Security (IAM, Vulnerability Management, DLP, ML, AI, Cryptography, etc.), and I like learning new things.
+- 👀 My background is in Cyber Security (IAM, Vulnerability Management, DLP, ML, AI, Cryptography, etc.)
+- 📚 I like learning new things.
 - 🚧 Try harder.
 
 <!---
